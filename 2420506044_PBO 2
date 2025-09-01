@@ -1,0 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ */
+
+package com.mycompany.bayamaruproject1;
+
+/**
+ *
+ * @author M S I
+ */
+public class Bayamaruproject1 {
+
+    public static void main(String[] args) {
+        System.out.println("Nama   : Muhammad Fikrie Ath Thahiru");
+        System.out.println("NPM    : 2420506044");
+        System.out.println("Alamat : Magelang");
+        System.out.println("No Hp  : 085647911231");
+
+    }
+}
